@@ -1,0 +1,8 @@
+{
+  "image": "swift:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": ["swiftlang.swift-vscode"]
+    }
+  }
+}
